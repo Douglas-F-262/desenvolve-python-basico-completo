@@ -1,0 +1,7 @@
+b)pseudocodigo
+
+1.inicio
+2.leia numero
+3.X =Numero lido - 1, 10 - numero lido. 
+4.mostre x
+5.fim

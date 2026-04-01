@@ -1,0 +1,9 @@
+A)dissertativa
+
+1.Leia o numero que será multiplicado por 9
+2.subtraia do numero lido 1
+3.armazene o resultado
+4.subtraia de 10 o numero lido 
+5.armazene o resultado 
+6.imprima os resultados armazenados na ordem que forem armazenados. 
+7.encerre o programa

@@ -1,0 +1,12 @@
+n = int(input("Dê o valor de n: "))
+
+cont = 0
+
+while n < cont:
+    cont = cont + 1
+    print(cont)
+
+
+
+
+print("Fim")
